@@ -34,7 +34,6 @@
                 <a class="list-group-item text-center" href="http://{{SECURITY_USER_USERNAME}}:{{SECURITY_USER_PASSWORD}}@iac-service-ci.apps.devtest.onsclofo.uk/swagger-ui.html"><strong>IAC Service</strong></a>
                 <a class="list-group-item text-center" href="http://{{SECURITY_USER_USERNAME}}:{{SECURITY_USER_PASSWORD}}@rm-notify-gateway-ci.apps.devtest.onsclofo.uk/swagger-ui.html"><strong>Notify Gateway Service</strong></a>
                 <a class="list-group-item text-center" href="http://{{SECURITY_USER_USERNAME}}:{{SECURITY_USER_PASSWORD}}@rm-sample-service-ci.apps.devtest.onsclofo.uk/swagger-ui.html"><strong>Sample Service</strong></a>
-                <a class="list-group-item text-center" href="http://{{SECURITY_USER_USERNAME}}:{{SECURITY_USER_PASSWORD}}@rm-sdx-gateway-ci.apps.devtest.onsclofo.uk/swagger-ui.html"><strong>SDX Gateway Service</strong></a>
             </ul>
         </div>
     </div>
